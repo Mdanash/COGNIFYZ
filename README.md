@@ -42,7 +42,7 @@ As part of my internship at Cognifyz Technologies, I developed a restaurant reco
 ## Contact
 For any questions or inquiries, feel free to reach out:
 
-- **Email**: [Mohamed Anash(mohamedanash0404@gmail.com)]
+- **Email**: [Mohamed Anash](mailto:mohamedanash0404@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/mohamed-anash-97a311289]
 
 Thank you for exploring my internship projects!
