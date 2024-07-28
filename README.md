@@ -16,12 +16,19 @@ The objective of this task was to build a machine learning model to predict the 
 - **Model Development**: Implemented several machine learning algorithms, including Linear Regression, Decision Trees, and Random Forests.
 - **Model Evaluation**: Evaluated the models using metrics such as RMSE (Root Mean Squared Error) and R² score to select the best performing model.
 
-### Task 2: [Task Title]
-**Description**: [Brief description of the task, the problem it aimed to solve, and the techniques used.]  
-**Key Features**:
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+# Restaurant Recommendation System
+
+## Overview
+
+As part of my internship at Cognifyz Technologies, I developed a restaurant recommendation system that suggests restaurants based on user preferences. This project utilizes content-based filtering techniques to provide personalized recommendations.
+
+## Features
+
+- **Data Preprocessing:** Cleaned and preprocessed the dataset to handle missing values and extract relevant features.
+- **TF-IDF Vectorization:** Transformed the 'Cuisines' feature into a numerical format using TF-IDF Vectorizer.
+- **Cosine Similarity:** Computed the cosine similarity between restaurants to find the most similar ones.
+- **Recommendation Function:** Created a function to get restaurant recommendations based on a given restaurant name.
+
 
 ### Task 3: [Task Title]
 **Description**: [Brief description of the task, the problem it aimed to solve, and the techniques used.]  
@@ -35,8 +42,8 @@ The objective of this task was to build a machine learning model to predict the 
 ## Contact
 For any questions or inquiries, feel free to reach out:
 
-- **Email**: [your email]
-- **LinkedIn**: [your LinkedIn profile]
+- **Email**: [Mohamed Anash(mohamedanash0404@gmail.com)]
+- **LinkedIn**: [www.linkedin.com/in/mohamed-anash-97a311289]
 
 Thank you for exploring my internship projects!
 
