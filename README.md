@@ -29,15 +29,27 @@ As part of my internship at Cognifyz Technologies, I developed a restaurant reco
 - **Cosine Similarity:** Computed the cosine similarity between restaurants to find the most similar ones.
 - **Recommendation Function:** Created a function to get restaurant recommendations based on a given restaurant name.
 
+# Restaurant Cuisine Classification
 
-### Task 3: [Task Title]
-**Description**: [Brief description of the task, the problem it aimed to solve, and the techniques used.]  
-**Key Features**:
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+## Overview
+This project focuses on developing a machine learning model to classify restaurants based on their cuisines. The model uses various features such as the restaurant's city, price range, aggregate rating, and the number of votes to predict the cuisine type. This task was completed as part of my internship at **Cognifyz Technologies**.
 
-
+## Project Workflow
+1. **Data Preprocessing**
+   - Handling missing values in the dataset.
+   - Encoding categorical variables such as the "City" and "Cuisines" columns.
+   
+2. **Feature Engineering**
+   - Selection of relevant features for classification, including:
+     - City
+     - Price range
+     - Aggregate rating
+     - Number of votes
+   
+3. **Model Development**
+   - The dataset was split into training and testing sets.
+   - A Random Forest classifier was trained on the training data.
+   - The model was evaluated on the test set using accuracy, precision, recall, and F1-score.
 
 ## Contact
 For any questions or inquiries, feel free to reach out:
